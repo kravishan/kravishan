@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...](https://c.tenor.com/rCaIUO0MP-EAAAAC/mario-pixel-art.gif)](https://buccie.com)
+[![MasterHead](https://c.tenor.com/rCaIUO0MP-EAAAAC/mario-pixel-art.gif)](https://buccie.com)
 <h1 align="center">Hi 👋, I'm Kavindu Ravishan</h1>
 <h3 align="center">Computer Science and Engineering Student</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/a85c0dcdcc774c6f340b07518363d6fb.gif">
