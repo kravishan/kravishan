@@ -33,7 +33,6 @@
 <p align="left">
 <a href="https://twitter.com/raviyahh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/raviyahh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/raviya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raviya" height="30" width="40" /></a>
-<a href="https://instagram.com/raviyahh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raviyahh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Support:</h3>
