@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kravishan&label=Profile%20views&color=0e75b6&style=flat" alt="kravishan" /> </p>
 
-- 🔬 I'm doing my PhD on **federated context-aware orchestration for agentic systems** at UBICOMP, University of Oulu
+- 🔬 I am doing my PhD on **federated context-aware orchestration for agentic systems** at UBICOMP, University of Oulu
 
-- 🇪🇺 I'm a Project Researcher on three EU-funded projects: **ARGENTIC** (agentic AI across the cognitive continuum), **NEUROCLIMA** (AI for climate policy) and **AIKAA** (generative AI in Finnish SMEs)
+- 👨‍💻 I am a Project Researcher on three EU-funded projects: **ARGENTIC** (agentic AI across the cognitive continuum), **NEUROCLIMA** (AI for climate policy) and **AIKAA** (generative AI in Finnish SMEs)
 
 - 🌱 Currently exploring **reinforcement learning**
 
